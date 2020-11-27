@@ -1,0 +1,33 @@
+{
+  "name": "Basic Python Hands-on Notebook-Demo",
+  "description": "Notebook for Basic Python Hands-on Learning",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "de_catalog_id": "Basic_Python Hands-on Notebook-Demo_notebook_1606458941813",
+  "source_repo": "https://github.com/i-data-explorer/basic-python-hands-on-notebook.git",
+  "use_explorer_dataset": false,
+  "explorer_catalog_id": "",
+  "is_s3_type": "",
+  "buckets": [],
+  "meta": {
+    "Install time": [
+      "2"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      ""
+    ],
+    "Catalog Id": [
+      "Basic_Python Hands-on Notebook-Demo_notebook_1606458941813"
+    ],
+    "Buckets": [],
+    "License and Use Rights": "Apache",
+    "Last Updated": "Nov 30 2020",
+    "Contact": "freedavales@xyz.com",
+    "Preferred Platform": "Openshift",
+    "Usage example": "",
+    "Managed By": "Me"
+  }
+}
